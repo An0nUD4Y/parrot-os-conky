@@ -4,5 +4,5 @@ A Conky For parrot Os
 ##ScreenShot
 <p/>
 <p>
-![Shot](https://github.com/An0nUD4Y/parrot-os-conky/image.png)
+![Shot](https://github.com/An0nUD4Y/parrot-os-conky/blob/master/image.png)
  <p/> 
